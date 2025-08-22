@@ -1,8 +1,3 @@
 {
-  "name": "secure-guidelines",
-  "main": "workers-site/index.js",
-  "site": {
-    "bucket": "./site",
-    "entry-point": "workers-site"
-  }
+  "pages_build_output_dir": "."
 }
